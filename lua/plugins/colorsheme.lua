@@ -58,7 +58,7 @@ return {
             errors = { "undercurl" },
             hints = { "undercurl" },
             warnings = { "undercurl" },
-            information = { "undercurl" },
+            -- information = { "undercurl" },
           },
         },
         navic = { enabled = true, custom_bg = "lualine" },

@@ -1,8 +1,0 @@
---return {
---  "saghen/blink.cmp",
---  opts = {
---    sources = {
---      { name = "supermaven" },
---    },
---  },
---}
